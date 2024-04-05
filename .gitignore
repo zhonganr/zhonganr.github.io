@@ -1,0 +1,11 @@
+env/
+src/build
+*.html
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
